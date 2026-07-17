@@ -1,141 +1,97 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=250&section=header&text=D.%20Nilesh%20Choudhary&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20%26%20ML%20Enthusiast&descAlignY=60"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm D. Nilesh Choudhary</h1>
-
-<h3 align="center">
-Full Stack Developer • AI & Machine Learning Enthusiast • B.Tech CSE Student
-</h3>
+<h3 align="center">Full Stack Developer • AI & ML Enthusiast • B.Tech CSE Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Java+%7C+Spring+Boot+%7C+React;Always+Learning+New+Technologies;Welcome+to+my+GitHub+Profile!" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=DNileshChoudhary&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;React+%7C+Spring+Boot+%7C+Java;Always+Learning+Something+New!" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Student
-
-💻 Passionate about Full Stack Web Development
-
-🤖 Exploring Artificial Intelligence & Machine Learning
-
-🌱 Currently learning AI Engineering and Advanced Spring Boot
-
-🚀 Love building projects that solve real-world problems
-
-📫 Email: **YOUR_EMAIL@gmail.com**
-
-🌐 Portfolio: **https://dnileshchoudhary.github.io/ShadowFox/**
+- 🎓 B.Tech CSE Student
+- 💻 Passionate about **Full Stack Development**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🌱 Currently learning **AI Engineering** and **Advanced Spring Boot**
+- 🚀 Building projects that solve real-world problems
+- 📫 **Email:** <PRIVATE_EMAIL>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://github.com/DNileshChoudhary">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/d-nilesh-choudhary">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://dnileshchoudhary.github.io/ShadowFox/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
+<p align="left">
+<a href="https://www.linkedin.com/in/d-nilesh-choudhary"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/DNileshChoudhary"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://dnileshchoudhary.github.io/ShadowFox/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-## 👨‍💻 Languages
+### Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql"/>
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql" />
 </p>
 
----
+### Frontend
 
-## 🎨 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 </p>
 
----
+### Backend
 
-## ⚙ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,maven"/>
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
 </p>
 
----
+### AI & Machine Learning
 
-## 🤖 AI / Machine Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,tensorflow" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
----
+### Tools
 
-## 🛠 Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🚀 Smart Task Management System (STMS)
+### 🚀 Smart Task Management System (STMS)
 
-> AI Powered Full Stack Task Management Portal
-
-✨ Features
+✔ AI Powered Task Management Portal
 
 - JWT Authentication
 - Google OAuth
 - AI Task Analysis
 - AI Smart Scheduling
-- File Upload
-- Analytics Dashboard
-- Calendar Integration
+- File Uploads
 - Admin Dashboard
-- Responsive UI
+- Analytics
+- Calendar Integration
 
 **Tech Stack**
 
-`React` `Spring Boot` `MySQL` `JWT` `Google OAuth` `Gemini API`
+`React` `Spring Boot` `MySQL` `JWT` `Gemini API`
 
-🌐 Live Demo
+🔗 **Live Demo**
 
 https://stms-xi.vercel.app/
 
 ---
 
-## 🎓 Grade Predictor
+### 🎓 Grade Predictor
 
-Machine Learning application that predicts student grades using attendance, assignments and academic performance.
+Machine Learning web application that predicts student grades based on attendance and academic performance.
 
 **Tech**
 
@@ -143,58 +99,33 @@ Machine Learning application that predicts student grades using attendance, assi
 
 ---
 
-## 🌐 Personal Portfolio
+### 🌐 Personal Portfolio
 
-Simple responsive portfolio website developed using HTML & CSS.
+Responsive Portfolio Website built using HTML & CSS.
 
 🔗 https://dnileshchoudhary.github.io/ShadowFox/
 
 ---
 
-## ☕ Java Practice Repository
+### ☕ Java Practice Repository
 
-A collection of Java console programs covering:
-
-- Java Basics
-- OOP
-- Collections
-- Exception Handling
-- File Handling
-- Problem Solving
+Collection of Java console programs covering Java fundamentals, OOP, Collections, File Handling, and problem-solving exercises.
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DNileshChoudhary&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DNileshChoudhary&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DNileshChoudhary&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DNileshChoudhary&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DNileshChoudhary&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -206,42 +137,12 @@ A collection of Java console programs covering:
 
 ---
 
-# 📚 Currently Learning
+## 💡 Quote
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🌐 Full Stack Development
-- ☁ Cloud Computing
-- 🚀 System Design
-
----
-
-# 🎯 Goals for 2026
-
-- 🚀 Build impactful Full Stack & AI projects
-- 🏆 Crack Software Engineering Internship
-- 📚 Strengthen DSA & Problem Solving
-- 🌍 Contribute to Open Source
-- ☁ Learn Cloud Deployment
-
----
-
-# 💡 Fun Fact
-
-> "The best way to predict the future is to build it."
+> *"Code. Learn. Build. Repeat."*
 
 ---
 
 <p align="center">
-
-### ⭐ If you like my work, consider giving a star to my repositories!
-
-Thanks for visiting my profile ❤️
-
+⭐ Thanks for visiting my profile! ⭐
 </p>
-
-<!-- Snake Contribution Animation (Optional) -->
-
-<!--
-![Snake animation](https://github.com/DNileshChoudhary/DNileshChoudhary/blob/output/github-contribution-grid-snake.svg)
--->
