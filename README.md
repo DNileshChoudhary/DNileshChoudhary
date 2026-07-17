@@ -21,7 +21,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/d-nilesh-choudhary"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/nilesh-choudhary-343734248/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/DNileshChoudhary"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://dnileshchoudhary.github.io/ShadowFox/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
