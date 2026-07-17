@@ -14,7 +14,7 @@
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
 - 🌱 Currently learning **AI Engineering** and **Advanced Spring Boot**
 - 🚀 Building projects that solve real-world problems
-- 📫 **Email:** <PRIVATE_EMAIL>
+- 📫 **Email:** <choudharynilesh60309@gmail.com>
 
 ---
 
